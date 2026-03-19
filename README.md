@@ -1,5 +1,5 @@
-NLP Tasks 
-Task 1: Text Preprocessing & ML/DL
+<h1 align="center">NLP Tasks Repository</h1>
+<h2>Task 1: Text Preprocessing & ML/DL</h2>
 
 Dataset: tags1.csv (documents + tags)
 
@@ -17,7 +17,7 @@ Converted text into vectors (BoW, TF-IDF)
 
 Applied ML & DL models for classification
 
-Task 2: Word2Vec (Harry Potter)
+<h2>Task 2: Word2Vec (Harry Potter)</h2>
 
 Trained custom Word2Vec model (300 dimensions)
 
@@ -27,6 +27,6 @@ Generated word embeddings
 
 Calculated cosine similarity between words
 
-Tech Stack
+<h2>Tech Stack</h2>
 
-Python, NumPy, Pandas, Scikit-learn, NLTK, PyTorc
+Python, NumPy, Pandas, Scikit-learn, NLTK, PyTorch
