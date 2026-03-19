@@ -29,4 +29,4 @@ Calculated cosine similarity between words
 
 <h2>Tech Stack</h2>
 
-Python, NumPy, Pandas, Scikit-learn, NLTK, PyTorch
+Python, NumPy, Pandas, Scikit-learn, NLTK, Spacy, PyTorch
